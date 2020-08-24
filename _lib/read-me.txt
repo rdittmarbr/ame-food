@@ -1,0 +1,13 @@
+--------------------------------------------------------------------------------------------------------------
+Bibliotecas RD Lib - Desenvolvidas por Rodrigo Dittmar
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mantenedor : Rodrigo dittmar
+https://github.com/rdittmarbr/phpLib
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+_lib - Bibliotecas utilizadas
+  _functions.php  - Funções gerais sistemas e configurações
+  _TcDB.php       - Coneccao ao Banco de dados / Manutencao de Dados
+  _TcDebug.php    - Log das classes (Arquivo texto _log )
+  _TcPackage.php  - Gerenciamento de Módulos e Pacotes de Dados
+  _TcUser.php     - Manutenção de usuáros

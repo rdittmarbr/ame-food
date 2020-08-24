@@ -1,0 +1,9 @@
+#agendar_atendimento .form-control,
+.custom-select {
+  width: min-content;
+}
+
+#agendar_atendimento .btn-primary {
+  background-color: var(--azul);
+  border-color: var(--azul);
+}
