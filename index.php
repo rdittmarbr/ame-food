@@ -1,6 +1,6 @@
 <?php
 /*------------------=-----------=------------------------------------------------------------------------------
-Sistema             : CLibras - Sistema para controle de chamadas
+Sistema             : Sistema para controle de chamadas
 Modulo              : index
 -------------------------------------------------------------------------------------------------------------*/
 $gl_TimeStart = microtime(true);     //Tempo de Inicio de Execucao do Script
