@@ -22,7 +22,6 @@ https://github.com/rdittmarbr/phpLib
 * _Back End_
   - Rodrigo Dittmar - rodrigo.dittmar@gmail.com
   - Abner Sanlai - abnersanlai@gmail.com
-  - Daniel - twz3xc21@gmail.com
 
 ---
 
